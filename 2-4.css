@@ -12,11 +12,6 @@ body {
   margin: inherit;
 }
 
-.subcontainer {
-  display: inline;
-}
-
-
 .sidebar {
   background-color: yellow;
   height: 800px;
